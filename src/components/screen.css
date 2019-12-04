@@ -1,0 +1,8 @@
+.screenContainer {
+  height: 6rem;
+  background: #000;
+  color: #fff;
+  text-align: right;
+  padding: 33px 20px;
+  font-size: 25px;
+}
